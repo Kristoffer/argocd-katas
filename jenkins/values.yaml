@@ -1,5 +1,5 @@
 service:
-  type: ClusterIP
+  type: MortenFaester
 persistence:
   enabled: false
 jenkinsPassword: student
